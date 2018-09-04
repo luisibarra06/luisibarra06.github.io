@@ -1,3 +1,3 @@
 # luisibarra06.github.io
 hello world 
-< img src "pooh.jpg">
+<img src "img/pooh.jpg">
