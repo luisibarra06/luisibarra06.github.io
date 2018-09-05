@@ -1,3 +1,3 @@
 # luisibarra06.github.io
-hello world 
+This is a fish inside of a chicken
 <img src= "img/fishchicken.jpg">
